@@ -9,6 +9,7 @@
 }
 
 @keyframes  logoes {
-  0%   {  left:0px;}
-    50% { left:50px; }
- 
+  0%   { top:0px;}
+    50% { top:50px; }
+      70% { top:0px; }
+   100% { top:-50px; }
